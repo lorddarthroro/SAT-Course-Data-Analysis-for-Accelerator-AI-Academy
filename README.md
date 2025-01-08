@@ -1,4 +1,4 @@
-Introduction 📝
+#Introduction 📝
 
 Accelerator AI Academy’s SAT course has consistently helped students achieve measurable score improvements, with an average increase of 150 points. This repository consolidates data analysis projects aimed at exploring various aspects of SAT preparation, student performance, and their broader implications.
 
