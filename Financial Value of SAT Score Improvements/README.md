@@ -24,6 +24,8 @@ Insights from the Visualization 📈
 The scatter plot shows the correlation between median SAT scores and average starting salaries.
 The regression line (red) highlights the positive trend, confirming that higher SAT scores are associated with higher starting salaries.
 Data variability reflects different university profiles and fields of study.
-##Key Takeaways
+## Key Takeaways
 SAT preparation offers a high ROI, making it a worthwhile investment for students aiming to maximize future earnings.
 A 150-point SAT improvement translates to a significant $13,500 increase in starting salary, based on the analysis.
+
+That being said, Accelerator AI Academy will be far from offering the course for such a ridiculous price. But it is good to get an idea as to what sort of impact the course can have for students!
